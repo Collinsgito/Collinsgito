@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Collinsgito
+- 👋 Hi, I’m @Collins Gitonga
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning computer scince
 - 💞️ I’m looking to collaborate on a programming projects

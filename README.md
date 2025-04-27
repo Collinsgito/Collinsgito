@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Collins Gitonga
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning computer scince
+- 👀 I’m interested in software engineering and development
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on a programming projects
 - 📫 How to reach me through email:collinsgitonga231@gmail.com
 - 😄 Pronouns: ...
